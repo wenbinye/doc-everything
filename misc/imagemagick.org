@@ -1,0 +1,4 @@
+** 合并图片
+convert -page +0+0 qrcode.png -page +90+90 icon.png -layers flatten result.png
+
+convert -page +0+0 qrcode.png -page +74+74 icon.png -layers flatten result.png

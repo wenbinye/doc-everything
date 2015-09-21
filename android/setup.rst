@@ -30,3 +30,5 @@ gradle 安装
 下载 gradle-2.3 解压缩，设置 GRADLE_HOME 和 PATH 环境变量
 
 https://spring.io/guides/gs/gradle-android/
+
+sudo aptitude install lib32z1 lib32stdc++6

@@ -10,3 +10,7 @@ ruby
     $ gem sources -a https://ruby.taobao.org/
     $ gem sources -l
    
+安装 rbenv
+------------------------------
+
+git clone https://github.com/sstephenson/rbenv.git  ~/.rbenv
