@@ -72,4 +72,3 @@ ubuntu 编译
         --with-zlib \
         --with-zlib-dir=/usr
    
-sudo aptitude install libasn1-8-heimdal libaspell15 libbz2-1.0 libc6 libcomerr2 libcurl3-gnutls libffi6 libfreetype6 libgcc1 libgcrypt11 libgmp10 libgnutls26 libgpg-error0 libgssapi-krb5-2 libgssapi3-heimdallibhcrypto4-heimdal libheimbase1-heimdal libheimntlm0-heimdallibhx509-5-heimdal libicu52 libidn11 libjpeg-turbo8 libk5crypto3libkeyutils1 libkrb5-26-heimdal libkrb5-3 libkrb5support0libldap-2.4-2 liblzma5 libmcrypt4 libp11-kit0 libpng12-0 libreadline6libroken18-heimdal librtmp0 libsasl2-2 libsqlite3-0 libssl1.0.0libstdc++6 libt1-5 libtasn1-6 libtidy-0.99-0 libtinfo5 libvpx1libwind0-heimdal libx11-6 libxau6 libxcb1 libxdmcp6 libxml2 libxpm4libxslt1.1 zlib1g

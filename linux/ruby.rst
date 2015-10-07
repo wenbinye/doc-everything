@@ -11,3 +11,8 @@ ruby
     $ gem sources -l
    
 RUBY_BUILD_MIRROR_URL=http://ruby.taobao.org/mirrors/ruby/2.2/ruby-2.2.2.tar.gz rbenv install 2.2.2
+
+安装 rbenv
+------------------------------
+
+git clone https://github.com/sstephenson/rbenv.git  ~/.rbenv
