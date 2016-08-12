@@ -32,3 +32,15 @@ gradle 安装
 https://spring.io/guides/gs/gradle-android/
 
 sudo aptitude install lib32z1 lib32stdc++6
+
+http://www.guokr.com/blog/797759/
+
+Fetching http://dl.google.com/android/repository/addons_list-2.xml
+Fetched Add-ons List successfully
+Fetching URL: http://dl.google.com/android/repository/repository-11.xml
+Done loading packages.
+Fetching http://dl.google.com/android/repository/addons_list-2.xml
+Failed to fetch URL http://dl.google.com/android/repository/addons_list-2.xml, reason: Connect to mirrors.nuesoft.edu.cn/mirrors.nuesoft.edu.cn/61.50.248.117 timed out
+Fetched Add-ons List successfully
+Fetching URL: http://dl.google.com/android/repository/repository-11.xml
+Done loading packages.

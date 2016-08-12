@@ -1,0 +1,6 @@
+    |  |-[+] 0(Piwik\Plugins\CoreHome\Tracker\VisitRequestProcessor)
+    |  |-     1(Piwik\Plugins\Actions\Tracker\ActionsRequestProcessor)
+    |  |-[+] 2(Piwik\Plugins\SitesManager\Tracker\SitesManagerRequestProcessor)
+    |  ‘-     3(Piwik\Plugins\Heartbeat\Tracker\PingRequestProcessor)
+
+curl -b 'XDEBUG_SESSION=1'  -d '{"requests":["?uid=a63375ef-1b2c-4211-9881-e7594bfc5e52&apiv=1&_idvc=5&idsite=3&res=720x1280&send_image=0&cdt=2016-03-11%2015%3A53%3A25%2B0800&_viewts=1457082574&lang=zh&url=http%3A%2F%2Fcom.piwik.demo%2F&country=CN&rec=1&_id=19a223d9e08c4967&new_visit=1&action_name=Main%20screen&ua=Dalvik%2F1.6.0%20%28Linux%3B%20U%3B%20Android%204.3%3B%20Galaxy%20Nexus%20Build%2FJWR66Y%29&rand=62788&_idts=1457075017","?cvar=%7B%222%22%3A%5B%22second%22%2C%22long%20value%22%5D%2C%221%22%3A%5B%22first%22%2C%22var%22%5D%7D&uid=a63375ef-1b2c-4211-9881-e7594bfc5e52&apiv=1&idsite=3&rec=1&_id=19a223d9e08c4967&send_image=0&action_name=Custom%20Vars&cdt=2016-03-11%2015%3A53%3A27%2B0800&rand=68517&url=http%3A%2F%2Fcom.piwik.demo%2Fcustom_vars","?uid=a63375ef-1b2c-4211-9881-e7594bfc5e52&apiv=1&idsite=3&rec=1&_id=19a223d9e08c4967&idgoal=0&send_image=0&cdt=2016-03-11%2015%3A53%3A29%2B0800&rand=15830&url=http%3A%2F%2Fcom.piwik.demo%2F&ec_items=%5B%5D&revenue=86.00"]}' http://piwik.ywb.chaozhuo.net/piwik.php     

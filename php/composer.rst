@@ -94,4 +94,3 @@ v2.0.4-p1
 1.1.x => 1.1.x-dev
 master => dev-master
 develop => dev-develop
-
